@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Film",
+  "base_artist": "yama",
+  "createdAt": "2026-02-10T06:59:52.933029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Exit Music (For a Film)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/01_Exit_Music_(For_a_Film)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Exit Music (For a Film)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Exit_Music_(For_a_Film)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Film Noir",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/03_Film_Noir_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sakte film",
+      "artist": "Karpe",
+      "has_synced": false,
+      "path": "select/04_Sakte_film_Karpe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sakte Film",
+      "artist": "Karpe Diem",
+      "has_synced": false,
+      "path": "select/05_Sakte_Film_Karpe_Diem.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Pretty Things Are Going to Hell - Stigmata Film Only Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_The_Pretty_Things_Are_Going_to_Hell_-_Stigmata_Film_Only_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Pretty Things Are Going to Hell (Stigmata Film Only Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_The_Pretty_Things_Are_Going_to_Hell_(Stigmata_Film_Only_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Pretty Things Are Going to Hell (Stigmata Film Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_The_Pretty_Things_Are_Going_to_Hell_(Stigmata_Film_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Exit Music (For A Film) (Nellee Hooper Mix)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Exit_Music_(For_A_Film)_(Nellee_Hooper_Mix)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Exit Music (For a Film)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Exit_Music_(For_a_Film)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Film Did Not Go 'Round",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/11_The_Film_Did_Not_Go_'Round_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Elvis Ate America (From The Film 'Elvis Ate America')",
+      "artist": "Passengers",
+      "has_synced": false,
+      "path": "select/12_Elvis_Ate_America_(From_The_Film_'Elvis_Ate_America')_Passengers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Miss Sarajevo (From The Film 'Miss Sarajevo')",
+      "artist": "Passengers",
+      "has_synced": true,
+      "path": "select/13_Miss_Sarajevo_(From_The_Film_'Miss_Sarajevo')_Passengers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Circus - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/14_Circus_-_Acoustic;_Live_at_MTV_Unplugged,_Bray_Film_Studios,_Windsor,_England,_U_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Film noir",
+      "artist": "Pyramid feat. Holy Oysters",
+      "has_synced": true,
+      "path": "select/15_Film_noir_Pyramid_feat._Holy_Oysters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Film",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_Film_yama.txt"
+    }
+  ]
+}
